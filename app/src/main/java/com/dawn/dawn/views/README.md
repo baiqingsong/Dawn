@@ -17,4 +17,4 @@
         app:civ_border_width="2dp"
         app:civ_border_color="#FF000000"/>
 ```
-![Circle](https://github.com/baiqingsong/raw/dawn/app/assets/circle_image_renderings.png)
+![CircleImageView](https://github.com/baiqingsong/Dawn/blob/master/app/assets/circle_image_renderings.png "圆形图片效果图")
